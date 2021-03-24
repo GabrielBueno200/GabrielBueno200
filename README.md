@@ -22,4 +22,4 @@ I'm Gabriel Bueno, a Computer Science student at University Center of FEI. Curre
 ![Typescript](https://img.shields.io/badge/Typescript%20-%23F37626.svg?&style=flat-square&logo=Typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
-![MySQL](<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
