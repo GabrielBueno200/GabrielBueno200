@@ -16,7 +16,7 @@ I'm Gabriel Bueno, a Computer Science student at University Center of FEI. Curre
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-007ACC?style=flat-square&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white")
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-339933?style=flat-square&logo=Assembly&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
