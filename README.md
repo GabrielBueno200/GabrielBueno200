@@ -1,8 +1,27 @@
-### Hi there 👋
+# Hi, there!
 
-I'm Gabriel Bueno, a Computer Science student at University Center of FEI. Currently I'm working as software development intern at INVENT.
+### Welcome to my github!
+<p>
+  I'm Gabriel Bueno, brazilian software developer.
+</p>
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/gabriel-vr-bueno/)
+### About me
+
+- 🎓 I'm a Computer Science Student at Centro Universitário FEI;
+
+- 💻 I’m currently working as Software Development intern at Invent;
+
+- 📚 I’m currently learning .NET Core, Entity Framework, Spring Boot, React and Design Patterns; 
+
+### Contact:
+
+<a href="https://www.linkedin.com/in/gabriel-vr-oliveira/">
+  <code><img alt="Linkedin" width="28" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" /></code>
+</a>
+
+<a href="mailto:gabrielbueno200@gmail.com">
+  <code><img alt="E-mail" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-256.png" /></code>
+</a>
 
 ### Skills
 
