@@ -15,7 +15,7 @@
 
 ### Contact:
 
-<a href="https://www.linkedin.com/in/gabriel-vr-oliveira/">
+<a href="https://www.linkedin.com/in/gabriel-vr-bueno/">
   <code><img alt="Linkedin" width="28" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" /></code>
 </a>
 
