@@ -1,6 +1,6 @@
 # Hi, there!
 
-### Welcome to my github!
+### Welcome to my github profile!
 <p>
   I'm Gabriel Bueno, brazilian software developer.
 </p>
