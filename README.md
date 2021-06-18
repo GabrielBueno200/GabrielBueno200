@@ -9,7 +9,7 @@
 
 - 🎓 I'm a Computer Science Student at Centro Universitário FEI;
 
-- 💻 I’m currently working as Software Development intern at Invent;
+- 💻 I’m currently working as Jr Software Developer at Partner Group;
 
 - 📚 I’m currently learning .NET Core, Entity Framework, Spring Boot, React and Design Patterns; 
 
