@@ -11,7 +11,7 @@
 
 - 💻 I’m currently working as Jr Software Developer at Partner Group;
 
-- 📚 I’m currently learning .NET Core, Entity Framework, Spring Boot, React and Design Patterns; 
+- 📚 I’m currently learning .NET Core, Entity Framework, Clean archtecture, React and Design Patterns; 
 
 ### Contact:
 
