@@ -13,15 +13,6 @@
 
 - 📚 I’m currently learning .NET Core, Entity Framework, Clean architecture, React and Design Patterns; 
 
-## Github Stats
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBueno200&count_private=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBueno200&layout=compact&exclude_repo=Dataset-probability-and-statistics,Wallet-Controller,DatasetAnalysisProject&theme=radical"/>
-</div>
-
-<hr>
-
 ## Skills
 
 
@@ -49,6 +40,15 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+## Github Stats
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBueno200&count_private=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBueno200&layout=compact&exclude_repo=Dataset-probability-and-statistics,Wallet-Controller,DatasetAnalysisProject&theme=radical"/>
+</div>
+
+<hr>
 
 ## Contact:
 
