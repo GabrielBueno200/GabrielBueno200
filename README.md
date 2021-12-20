@@ -52,22 +52,22 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Coding
-<center>
-    <tr>
-      <td>
-        <p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=GabrielBueno200h&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true&theme=yeblu" alt="Bruno's github stats"/>
-          </a></p>
-       <p align="center"><a href="#"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielBueno200&hide_border=true&theme=yeblu" alt="Gabriel's github stats"/></a></p>
-      </td>
-       <td>
-        <p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielBueno200&layout=compact&langs_count=20&hide_border=true&theme=yeblu" alt="Gabriel's github stats"/> </a></p>
-      </td>
-      </tr>
+
+<tr>
+  <td>
+    <p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api?username=GabrielBueno200h&show_icons=true&count_private=true&hide_border=true&&include_all_commits=true&theme=yeblu" alt="Bruno's github stats"/>
+      </a></p>
+   <p align="center"><a href="#"><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielBueno200&hide_border=true&&exclude_repo=Dataset-probability-and-statistics&include_all_commits=true&theme=yeblu" alt="Gabriel's github stats"/></a></p>
+  </td>
+   <td>
+    <p align="center"><a href="#"><img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielBueno200&layout=compact&langs_count=20&hide_border=true&theme=yeblu" alt="Gabriel's github stats"/> </a></p>
+  </td>
+  </tr>
 </center>
 <br/>
 
 <p align="right">
-  <a href="#">
-      <img src="https://visitor-badge.glitch.me/badge?page_id=GabrielBueno200.GabrielBueno200" />
-   </a>
+<a href="#">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=GabrielBueno200.GabrielBueno200" />
+</a>
 </p>
