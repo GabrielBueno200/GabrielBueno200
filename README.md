@@ -16,8 +16,8 @@
 ## Github Stats
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBueno200&exclude_repo=Dataset-probability-and-statistics,Wallet-Controller,DatasetAnalysisProject&count_private=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBueno200&layout=compact&exclude_repo=mmorpg-character-database,Wallet-Controller,DatasetAnalysisProject&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBueno200&count_private=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBueno200&layout=compact&exclude_repo=Dataset-probability-and-statistics,Wallet-Controller,DatasetAnalysisProject&theme=radical"/>
 </div>
 
 <hr>
