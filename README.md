@@ -17,7 +17,7 @@
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBueno200&exclude_repo=mmorpg-character-database,Wallet-Controller&count_private=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBueno200&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBueno200&layout=compact&exclude_repo=mmorpg-character-database,Wallet-Controller&theme=radical"/>
 </div>
 
 <hr>
