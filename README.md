@@ -5,7 +5,7 @@
   I'm Gabriel Bueno, brazilian software developer.
 </p>
 
-### About me
+## About me
 
 - 🎓 I'm a Computer Science Student at Centro Universitário FEI;
 
@@ -13,17 +13,16 @@
 
 - 📚 I’m currently learning .NET Core, Entity Framework, Clean architecture, React and Design Patterns; 
 
-### Contact:
+## Github Stats
 
-<a href="https://www.linkedin.com/in/gabriel-vr-bueno/">
-  <code><img alt="Linkedin" width="28" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" /></code>
-</a>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBueno200&count_private=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBueno200&layout=compact&theme=radical"/>
+</div>
 
-<a href="mailto:gabrielbueno200@gmail.com">
-  <code><img alt="E-mail" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-256.png" /></code>
-</a>
+<hr>
 
-### Skills
+## Skills
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -50,3 +49,13 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+## Contact:
+
+<a href="https://www.linkedin.com/in/gabriel-vr-bueno/">
+  <code><img alt="Linkedin" width="28" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" /></code>
+</a>
+
+<a href="mailto:gabrielbueno200@gmail.com">
+  <code><img alt="E-mail" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-256.png" /></code>
+</a>
