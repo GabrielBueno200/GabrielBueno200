@@ -31,7 +31,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)
 
 ![C#](https://img.shields.io/badge/-CSharp-E34F26?style=flat-square&logo=c#&logoColor=white)
-![DotNET#](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![DotNET#](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ![Typescript](https://img.shields.io/badge/Typescript%20-%23F37626.svg?&style=flat-square&logo=Typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -49,4 +49,4 @@
 ![Assembly](https://img.shields.io/badge/-Assembly-339933?style=flat-square&logo=Assembly&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
