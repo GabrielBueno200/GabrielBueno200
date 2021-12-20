@@ -27,7 +27,7 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white)
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
