@@ -43,8 +43,8 @@
 ## Github Stats
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBueno200&count_private=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBueno200&langs_count=10&layout=compact&exclude_repo=Dataset-probability-and-statistics,DatasetAnalysisProject&theme=radical"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GabrielBueno200&show_icons=true&include_all_commits=true&count_private=true&theme=radical"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBueno200&langs_count=10&exclude_repo=Dataset-probability-and-statistics,DatasetAnalysisProject&theme=radical&layout=compact"/>
 </div>
 
 <hr>
