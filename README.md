@@ -7,7 +7,7 @@
 
 ## About me
 
-- 🎓 I'm a Computer Science Student at Centro Universitário FEI;
+- 🎓 Computer Science graduated at Centro Universitário FEI;
 
 - 💻 I’m currently working as Jr Software Developer at Partner Group;
 
