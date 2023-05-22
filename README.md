@@ -5,10 +5,10 @@
 <div>
   <h2>About me</h2>
   <ul>
-    <li>📆 22 years old.</li>
-    <li>📍 São Paulo, Brazil.</li>
+    <li>📆 22 years old</li>
+    <li>📍 São Paulo, Brazil</li>
     <li>🎓 Computer Science graduated at Centro Universitário FEI</li>
-    <li>💻 Jr Software Developer at Partner Group.</li>
+    <li>💻 Jr Software Developer at Partner Group</li>
   </ul>
 </div>
 
