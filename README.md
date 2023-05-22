@@ -1,19 +1,23 @@
-# Hi, there!
+# Hello world! I'm Gabriel
 
 ### Welcome to my github profile!
 <p>
   I'm Gabriel Bueno, brazilian software developer.
 </p>
 
-## About me
-
-- 🎓 Computer Science graduated at Centro Universitário FEI;
-
-- 💻 I’m currently working as Jr Software Developer at Partner Group;
-
-- 📚 I’m currently learning .NET Core, Entity Framework, Clean architecture, React and Design Patterns; 
+<div>
+  <h2>About me</h2>
+  <ul>
+    <li>📆 22 years old.</li>
+    <li>📍 São Paulo, Brazil.</li>
+    <li>🎓 Computer Science graduated at Centro Universitário FEI</li>
+    <li>💻 Jr Software Developer at Partner Group.</li>
+  </ul>
+</div>
 
 ## Skills
+
+<p>These are the main languages, technologies or frameworks that I know and love to work with.</p>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![DotNET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -49,12 +53,11 @@
 
 <hr>
 
-## Contact:
-
-<a href="https://www.linkedin.com/in/gabriel-vr-bueno/">
-  <code><img alt="Linkedin" width="28" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" /></code>
-</a>
-
-<a href="mailto:gabrielbueno200@gmail.com">
-  <code><img alt="E-mail" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-256.png" /></code>
-</a>
+<div>
+  <h2>Contact</h2>
+  <p>If you want to know more about me or my projects you can find me on platforms below</p>
+  <div> 
+    <a href = "mailto:gabrielbueno200@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/gabriel-vr-bueno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+</div>
