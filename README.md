@@ -14,7 +14,7 @@
 
 ## Skills
 
-<p>These are the languages, technologies or frameworks that I love to work with.</p>
+<p>These are the languages, technologies and frameworks that I like to work with.</p>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![DotNET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
