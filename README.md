@@ -9,7 +9,7 @@
     <li>📍 São Paulo, Brazil</li>
     <li>🎓 Computer Science graduated at Centro Universitário FEI</li>
     <li>💻 Software Engineer at FIAP</li>
-    <li>🌐 You can know me better accessing my <a href="https://gabrielbueno-portfolio.vercel.app/experience">portfolio website</a></li>
+    <li>🌐 You can know me better accessing my <a href="https://gabrielbueno-portfolio.vercel.app">portfolio website</a></li>
   </ul>
 </div>
 
