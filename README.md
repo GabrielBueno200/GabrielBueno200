@@ -8,7 +8,8 @@
     <li>📆 22 years old</li>
     <li>📍 São Paulo, Brazil</li>
     <li>🎓 Computer Science graduated at Centro Universitário FEI</li>
-    <li>💻 Jr Software Developer at Partner Group</li>
+    <li>💻 Software Engineer at FIAP</li>
+    <li>🌐 You can know me better accessing my <a href="https://gabrielbueno-portfolio.vercel.app/experience">portfolio website</a></li>
   </ul>
 </div>
 
