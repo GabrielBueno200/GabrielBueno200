@@ -5,7 +5,7 @@
 <div>
   <h2>About me</h2>
   <ul>
-    <li>📆 23 years old</li>
+    <li>📆 25 years old</li>
     <li>📍 São Paulo, Brazil</li>
     <li>🎓 Computer Science graduated at Centro Universitário FEI</li>
     <li>💻 Software Engineer at XP Inc</li>
