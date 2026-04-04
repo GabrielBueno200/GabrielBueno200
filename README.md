@@ -8,7 +8,7 @@
     <li>📆 25 years old</li>
     <li>📍 São Paulo, Brazil</li>
     <li>🎓 Computer Science graduated at Centro Universitário FEI</li>
-    <li>💻 Software Engineer at XP Inc</li>
+    <li>💻 Senior Software Engineer at XP Inc</li>
     <li>🌐 You can know me better accessing my <a href="https://gabrielbueno-portfolio.vercel.app">portfolio website</a></li>
   </ul>
 </div>
